@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="200mm"
+   height="35mm"
+   viewBox="0 0 200 35"
+   version="1.1"
+   id="svg5"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2">
+    <rect
+       x="0.5"
+       y="-1"
+       width="754.5"
+       height="132"
+       id="rect32921" />
+    <rect
+       x="12.5"
+       y="15.5"
+       width="157.5"
+       height="90.5"
+       id="rect21571" />
+    <rect
+       x="0"
+       y="0"
+       width="755.63217"
+       height="131.14277"
+       id="rect5115" />
+  </defs>
+  <g
+     id="layer1">
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text5113"
+       style="font-style:normal;font-weight:normal;font-size:133.333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect5115);fill:#000000;fill-opacity:1;stroke:none"><tspan
+         x="0"
+         y="252.78631"
+         id="tspan45230"><tspan
+           dx="0 27.786442 32.369774 33.229145 32.369774 33.749977 31.770813 21.01561 31.770828"
+           style="font-size:53.3333px"
+           id="tspan45228">coponetes</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text21569"
+       style="font-style:normal;font-weight:normal;font-size:106.667px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect21571);fill:#000000;fill-opacity:1;stroke:none"><tspan
+         x="12.5"
+         y="203.31554"
+         id="tspan45234"><tspan
+           dx="0 55.57309 64.739784 66.458549 64.739777 67.500214 63.54187 42.031372 63.54187"
+           id="tspan45232">coponetes</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text32919"
+       style="font-style:normal;font-weight:normal;font-size:117.333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect32921);fill:#000000;fill-opacity:1;stroke:none"><tspan
+         x="0.5"
+         y="106.04645"
+         id="tspan45238"><tspan
+   style="fill:#0000ff"
+   id="tspan45236">C</tspan>oponetes</tspan></text>
+  </g>
+</svg>

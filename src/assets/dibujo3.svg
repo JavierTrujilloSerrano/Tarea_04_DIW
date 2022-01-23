@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="200mm"
+   height="33mm"
+   viewBox="0 0 200 33"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="dibujo3.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     width="200mm"
+     inkscape:zoom="1.2810466"
+     inkscape:cx="405.5278"
+     inkscape:cy="222.47435"
+     inkscape:window-width="1920"
+     inkscape:window-height="1106"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <rect
+       x="-0.78061174"
+       y="-0.78061174"
+       width="757.19339"
+       height="123.33666"
+       id="rect5115" />
+  </defs>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g15846">
+      <text
+         xml:space="preserve"
+         transform="scale(0.26458333)"
+         id="text5113"
+         style="font-style:normal;font-weight:normal;font-size:109.333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect5115);fill:#000000;fill-opacity:1;stroke:none"><tspan
+           x="-0.78125"
+           y="98.966561"
+           id="tspan16452"><tspan
+   style="fill:#800080"
+   id="tspan16450">C</tspan>oponetes</tspan></text>
+    </g>
+  </g>
+</svg>
